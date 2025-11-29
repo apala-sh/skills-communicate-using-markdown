@@ -14,3 +14,7 @@ print("Hello world")
 $ ssh -i id_rsa <username>@<target_IP>
 ```
 
+# lists
+- [ ] hello
+- [ ] world
+  - [ ] sublist mayhaps ?
